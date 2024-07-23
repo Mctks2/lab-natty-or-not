@@ -1,17 +1,18 @@
-# Programação Eficiente com IAs Generativas ✨
+# A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este e-book explora como IAs generativas e prompts inteligentes transformam a programação, acelerando o desenvolvimento, automatizando tarefas e personalizando ferramentas. Descubra benefícios práticos, casos de uso reais e tendências futuras. Ideal para programadores que buscam otimização e inovação.
+Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- Ferramenta **[Canva](https://www.canva.com/)** para edição e criação de arte visual(utilizando apps de IA).
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre o impacto das IAs Generativas em colaboração com os Devs, estruturar o conteúdo e refinar minhas ideias. Por outro lado, a ferramenta "Canva" foi usada para gerar imagens e edição para o nosso e-book. 
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs generativas podem ser uma ferramenta poderosa na programação e na otimização do desenvolvimento de software.
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
 [LINK PARA O E-BOOK AQUI]()
 
